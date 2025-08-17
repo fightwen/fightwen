@@ -5,7 +5,7 @@
 - 🔭 I've spent over **10 years in software engineering**, with a deep passion for mobile development.
 - 🌱 My journey began with **Android (Kotlin & Java)**, where I built a solid 8-year foundation. More recently, I've expanded my horizons into **Flutter and iOS**, gaining valuable cross-platform experience.
 - 👯 My focus has shifted from coding to leading as an **Engineering Manager**, where I now drive projects and foster team growth.
-- 📫 Reach out to me at privatewen@gmail.com
+- 📫 Reach out to me at privatewens@gmail.com
 
 <!--
 **fightwen/fightwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
